@@ -1,0 +1,8 @@
+venv/
+env/
+.idea/
+.env
+/tests/.pytest_cache/
+/files/
+/htmlcov/
+/.coverage
